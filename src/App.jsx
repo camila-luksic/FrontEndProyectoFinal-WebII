@@ -167,7 +167,7 @@ const App = () => {
                 <Card.Title>
                   <h3>Municipios en el Mapa</h3>
                 </Card.Title>
-                <LoadScript googleMapsApiKey="AIzaSyDjBVszJd4JRyO8qW_KA0oxRUfYs6r5SV4">
+                <LoadScript googleMapsApiKey="----">
                   <GoogleMap
                     mapContainerStyle={containerStyle}
                     center={center}
